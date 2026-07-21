@@ -2,13 +2,13 @@
 -- Membuat Database
 -- ============================================
 
-DROP DATABASE IF EXISTS db_akademik;
+DROP DATABASE IF EXISTS db_akademik_quicksonso;
 
-CREATE DATABASE db_akademik
+CREATE DATABASE db_akademik_quicksonso
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci;
 
-USE db_akademik;
+USE db_akademik_quicksonso;
 
 -- ============================================
 -- Tabel Program Studi
